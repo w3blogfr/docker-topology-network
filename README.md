@@ -1,5 +1,5 @@
 # docker-topology-network
-This image a only for demonstration.
+This image should be used only for demonstration or audit
 
 This image is used to see all containers reachable from container.
 
@@ -10,6 +10,6 @@ When you add network option, you can't join containers from other network.
 
 
 ##How to run?
-```
+```bash
 docker run --rm --name docker-topology-network w3blogfr/docker-topology-network
-``̀
+```
